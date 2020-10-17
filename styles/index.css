@@ -39,3 +39,9 @@ body {
     }
 }
 
+@media (max-height: 480px) {
+    .text {
+        margin-top: 300px;
+    }
+}
+
