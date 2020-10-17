@@ -39,7 +39,7 @@ body {
     }
 }
 
-@media (max-height: 320px) {
+@media (max-height: 280px) {
     .text {
         margin-top: 300px;
     }
