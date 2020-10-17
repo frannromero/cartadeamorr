@@ -31,5 +31,11 @@ body {
         height: 1600px;
         font-size: 13px;
         line-height: 19px;
+        margin-top: 300px;
     }
+    
+    body {
+        background-position: right;
+    }
+}
 }
