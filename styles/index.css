@@ -39,10 +39,10 @@ body {
     }
 }
 
-@media (max-height: 280px) {
+@media (max-height: 320px) {
     .text {
-        margin-top: 300px;
-        width: 400px;
+        margin-top: 400px;
+        width: 550px;
     }
 }
 
